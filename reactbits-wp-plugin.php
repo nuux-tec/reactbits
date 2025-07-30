@@ -3,7 +3,7 @@
  * Plugin Name: ReactBits WP Plugin
  * Description: Incorpora componentes ReactBits.dev via shortcode [reactbits].
  * Version: 1.0.0
- * Author: Seu Nome
+ * Author: Nubem Júnior
  * Text Domain: reactbits-wp-plugin
  */
 
