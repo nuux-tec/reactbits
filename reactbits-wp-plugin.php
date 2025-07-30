@@ -1,11 +1,16 @@
 <?php
 /**
- * Plugin Name: ReactBits WP Plugin
- * Description: Incorpora componentes ReactBits via shortcode [reactbits]. Agora com auto-update GitHub.
- * Version:     1.0.0
- * Author:      Nubem Júnior
- * Text Domain: reactbits-wp-plugin
+ * Plugin Name:     ReactBits WP Plugin
+ * Description:     Incorpora componentes ReactBits via shortcode [reactbits].
+ * Version:         1.0.0
+ * Author:          Nubem Júnior
+ *
+ * GitHub Plugin URI: nuux-tec/reactbits1
+ * Requires at least: 5.0
+ * Tested up to:       6.4
+ * License:           MIT
  */
+
 
 if ( ! defined('ABSPATH') ) exit;
 
