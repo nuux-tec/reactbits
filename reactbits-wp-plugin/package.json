@@ -1,0 +1,14 @@
+{
+  "name": "reactbits-wp-plugin",
+  "version": "1.0.0",
+  "description": "Plugin WordPress para incorporar componentes ReactBits via shortcode",
+  "author": "Seu Nome",
+  "license": "MIT",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^27.4.0"
+  }
+}
